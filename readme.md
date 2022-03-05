@@ -1,9 +1,9 @@
-#Pokedex using API
-##Endpoint
+# Pokedex using API
+## Endpoint
 - Get Name, Type of Pokemon
 >https://pokeapi.co/api/v2/pokemon/
 
-##Image Data
+## Image Data
 - Get Image of Pokemon by its Name
 >https://img.pokemondb.net/artwork/large/${data.name}.jpg
 
