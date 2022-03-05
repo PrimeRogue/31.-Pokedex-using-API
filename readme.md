@@ -10,6 +10,9 @@
 - Get Image of Pokemon by its Name
 >https://img.pokemondb.net/artwork/large/${data.name}.jpg
 
+## Javascript Library
+> particles.js
+
 ## Demo
 
 ![](images/Demo1.PNG)
