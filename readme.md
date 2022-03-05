@@ -1,4 +1,7 @@
 # Pokedex using API
+## Deploy
+> https://nostalgic-hugle-99ebc6.netlify.app/
+
 ## Endpoint
 - Get Name, Type of Pokemon
 >https://pokeapi.co/api/v2/pokemon/
